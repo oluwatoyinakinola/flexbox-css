@@ -1,0 +1,120 @@
+ h1{
+    text-align: center;
+    color: blue;
+ }
+
+.container{
+    display: flex;
+    background-color: greenyellow;
+    position: relative;
+    flex-direction: column;
+    font: caption;
+    font-weight: bolder;
+    
+}
+
+.box1{
+    width: 100px;
+    border: 5px solid aqua;
+    padding: 20px;
+    margin: 15px;
+    text-align: center;
+
+    }
+.box2{
+    width: 100px;
+    border: 5px solid red;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+.box3{
+    width: 100px;
+    border: 5px solid purple;
+    padding: 12px;
+    margin: 14px;
+    text-align: center;
+}
+.box4{
+    width: 100px;
+    border: 8px solid violet;
+    padding: 25px;
+    margin: 12px;
+    text-align: center;
+} 
+.box5{
+    width: 100px;
+    border: 15px solid goldenrod;
+    padding: 8px;
+    margin: 15px;
+    text-align: center;
+}
+.box6{
+    width: 100px;
+    border: 6px solid blue;
+    padding: 18px;
+    margin: 13px;
+    text-align: center;
+
+
+}
+.box7{
+    width: 100px;
+    border: 7.5px solid royalblue;
+    padding: 30px;
+    margin: 10px; 
+    text-align: center;
+    
+    
+     
+}
+.box8{
+    width: 100px;
+    border: 15px solid brown;
+    padding: 20px;
+    margin: 13px;
+    text-align: center;
+
+}
+.box9{
+    width: 100px;
+    border: 9px solid orangered;
+    padding: 27px;
+    margin: 15px;
+    text-align: center;
+
+}
+
+.box10{
+    width: 150px;
+    border: 15px solid orange;
+    padding: 32px;
+    margin: 10px;
+    text-align: center;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
